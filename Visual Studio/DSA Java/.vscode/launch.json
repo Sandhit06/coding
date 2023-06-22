@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch XYZ",
+            "request": "launch",
+            "mainClass": "XYZ",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leetcode",
+            "request": "launch",
+            "mainClass": "Leetcode",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch hash",
+            "request": "launch",
+            "mainClass": "hash",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch hex",
+            "request": "launch",
+            "mainClass": "hex",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hashing",
+            "request": "launch",
+            "mainClass": "Hashing",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exception",
+            "request": "launch",
+            "mainClass": "Exception",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch codechef",
+            "request": "launch",
+            "mainClass": "codechef",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch max",
+            "request": "launch",
+            "mainClass": "max",
+            "projectName": "DSA Java_5aa9cb94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search",
+            "request": "launch",
+            "mainClass": "Search",
+            "projectName": "DSA Java_489d21ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch max",
+            "request": "launch",
+            "mainClass": "max",
+            "projectName": "DSA Java_489d21ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "DSA Java_489d21ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "DSA Java_489d21ce"
+        }
+    ]
+}
